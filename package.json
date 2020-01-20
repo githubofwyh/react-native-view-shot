@@ -16,8 +16,7 @@
   "homepage": "https://github.com/gre/react-native-view-shot",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/gre/react-native-view-shot.git"
+    "type": "git"
   },
   "peerDependencies": {
     "react": "*",
